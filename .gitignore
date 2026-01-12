@@ -1,5 +1,6 @@
 docs/
 
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -11,10 +12,12 @@ env/
 
 models/*.pkl
 
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 
+# OS
 .DS_Store
 Thumbs.db
